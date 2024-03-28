@@ -18,5 +18,5 @@ You should hear the formant speech synthesizer saying "Hello world I am a speech
 
 Unfortunately, the synthesizer produces robotic speech. Compile the code and listen to it say "Hello world I am a speech synthesizer"
 
-I have also developed a diphone speech synthesizer which is used in my GTK4 [Talk Calendar](https://github.com/crispinprojects/talkingcalendar) project. The diphone speech synthesizer code can be found [here](https://github.com/crispinprojects/diphone-synthesizer).
+I was hoping to use the formant speech synthesizer in my GTK4 [Talk Calendar](https://github.com/crispinprojects/talkingcalendar) project but I use my own word concatenation speech synthesizer instead for audibility.
 
