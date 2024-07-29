@@ -19,4 +19,4 @@ You should hear the formant speech synthesizer saying "Hello world I am a speech
 
 Unfortunately, the synthesizer produces robotic speech. Compile the code and listen to it say "Hello world I am a speech synthesizer"
 
-I was hoping to use the formant speech synthesizer in my GTK4 [Talk Calendar](https://github.com/crispinprojects/talkgcalendar) project but for audibility reasons I used my own word concentation speech synthesizer and latterly [espeak](https://espeak.sourceforge.net/).
+I was hoping to use the formant speech synthesizer in my GTK4 [Talk Calendar](https://github.com/crispinprojects/talkcalendar) project but for audibility reasons I used my own word concentation speech synthesizer and latterly [espeak](https://espeak.sourceforge.net/).
